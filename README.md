@@ -1,0 +1,2 @@
+
+This Jupyter Notebook implements a variety of data extraction techniques and graph plotting functionalities to analyze stock data for Tesla and GameStop (GME). It includes the definition of functions to create graphs, the extraction of stock data using the yfinance library, and the utilization of web scraping to extract revenue data for both Tesla and GME. The notebook provides visual representations of the stock performance of Tesla and GameStop over a specified period, facilitating comparative analysis and insights into their revenue trends.
